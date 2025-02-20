@@ -3,7 +3,7 @@
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
                 .container {
-                    background-color: rgb(23, 31, 37);
+                    background-color: #cd7114;
                     color: white;
                     padding: 1.5rem;
                     border-radius: 0.5rem;
@@ -48,8 +48,8 @@
             <div class="container">
                 <div class="content">
                     <div>
-                        <h3 class="track-info">I Want</h3>
-                        <p class="artist-info">Mk.gee</p>
+                        <h3 class="track-info">29 #Strafford APTS</h3>
+                        <p class="artist-info">Bon Iver</p>
                     </div>
                 </div>
                 <div class="progress-bar">
