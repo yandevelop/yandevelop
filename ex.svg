@@ -3,7 +3,7 @@
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
                 .container {
-                    background-color: #cd7114;
+                    background-color: rgb(215, 138, 117);
                     color: white;
                     padding: 1.5rem;
                     border-radius: 0.5rem;
@@ -48,7 +48,7 @@
             <div class="container">
                 <div class="content">
                     <div>
-                        <h3 class="track-info">29 #Strafford APTS</h3>
+                        <h3 class="track-info">Walk Home</h3>
                         <p class="artist-info">Bon Iver</p>
                     </div>
                 </div>
