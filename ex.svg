@@ -3,7 +3,7 @@
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
                 .container {
-                    background-color: #e4956d;
+                    background-color: #e24e4b;
                     color: white;
                     padding: 1.5rem;
                     border-radius: 0.5rem;
@@ -48,7 +48,7 @@
             <div class="container">
                 <div class="content">
                     <div>
-                        <h3 class="track-info">For The Cold Country</h3>
+                        <h3 class="track-info">The Big Spin</h3>
                         <p class="artist-info">Black Country, New Road</p>
                     </div>
                 </div>
