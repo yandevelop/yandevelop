@@ -11,7 +11,7 @@
 I aim to showcase my favorite track each week - here's this week's pick!
 
 <!--<a href="https://open.spotify.com/track/2F8SyDwcgNJaM7fo5poRzn?si=3ff550266b254382" target="_blank" style="text-decoration: none;">-->
-<a href="https://open.spotify.com/track/5agmWuBAor2UQcNqByOvWC?si=ecfcd0e903c84c6b" target="_blank">
+<a href="https://open.spotify.com/track/2kgwfRx9u6iDTjozemmNld?si=e7c331fa326c46bb" target="_blank">
     <img src="./ex.svg" width="400" height="160">
 </a>
 <!--</a>-->
